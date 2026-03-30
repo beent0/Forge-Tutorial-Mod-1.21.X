@@ -1,0 +1,2 @@
+Create an Item: ModItems -> TutorialMod -> language -> item model -> item texture
+Create a Block: ModBlocks -> TutorialMod -> block state -> block model -> block texture -> item of block model -> item of block texture -> language
